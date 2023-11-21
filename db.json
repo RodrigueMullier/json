@@ -1,56 +1,56 @@
 [
   {
     "id": 1,
-    "title": "Hamburger Classique",
+    "title": "Classique",
     "description": "Un hamburger simple avec du bœuf, de la laitue et de la tomate.",
     "thumbnail": "assets/burgers/classique.jpg",
     "price": 5.99
   },
   {
     "id": 2,
-    "title": "Hamburger Végétarien",
+    "title": "Végétarien",
     "description": "Un hamburger sans viande avec un steak végétarien, de la laitue et des condiments.",
     "thumbnail": "assets/burgers/vegetarien.jpg",
     "price": 6.99
   },
   {
     "id": 3,
-    "title": "Hamburger Bacon",
+    "title": "Bacon",
     "description": "Un hamburger savoureux avec du bacon croustillant, du fromage et des légumes.",
     "thumbnail": "assets/burgers/bacon.jpg",
     "price": 7.99
   },
   {
     "id": 4,
-    "title": "Hamburger BBQ",
+    "title": "BBQ",
     "description": "Un hamburger avec une sauce barbecue, des oignons et du fromage fondant.",
     "thumbnail": "assets/burgers/bbq.jpg",
     "price": 8.99
   },
   {
     "id": 5,
-    "title": "Hamburger Mexicain",
+    "title": "Mexicain",
     "description": "Un hamburger épicé avec du piment, du guacamole et de la salsa.",
     "thumbnail": "assets/burgers/mexicain.jpg",
     "price": 7.49
   },
   {
     "id": 6,
-    "title": "Hamburger Bleu",
+    "title": "Chedar",
     "description": "Un hamburger avec du fromage bleu, des oignons caramélisés et de la laitue.",
     "thumbnail": "assets/burgers/bleu.jpg",
     "price": 8.49
   },
   {
     "id": 7,
-    "title": "Hamburger Ranch",
+    "title": "Ranch",
     "description": "Un hamburger avec une sauce ranch crémeuse, du bacon et des tomates.",
     "thumbnail": "assets/burgers/ranch.jpg",
     "price": 6.49
   },
   {
     "id": 8,
-    "title": "Hamburger Hawaïen",
+    "title": "Hawaïen",
     "description": "Un hamburger tropical avec du jambon, de l'ananas et de la sauce aigre-douce.",
     "thumbnail": "assets/burgers/hawaien.jpg",
     "price": 9.99
